@@ -1,0 +1,17 @@
+{
+    "name": "ridhopujiono/file-management",
+    "description": "Easy Ways to upload single, upload multiple, delete single and delete multiple",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ridhopujiono\\File\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yes"
+        }
+    ],
+    "require": {}
+}
