@@ -5,10 +5,6 @@ namespace RidhoPujiono\File;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Storage;
 
-/**
- * Basic Calculator.
- *
- */
 class FileManagement
 {
     public static function upload($file, $destination)
